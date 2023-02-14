@@ -22,3 +22,5 @@ type: book
 - Problem Set 2 Solution: [Lista-2_Resolucao.pdf](../Lista-2_Resolucao.pdf)
 - Script File: [Lista-2_v2.py](../Lista-2_v2.py)
 
+
+{{< cta cta_text="👉 Proceed to Session 6" cta_link="chapter6" >}}

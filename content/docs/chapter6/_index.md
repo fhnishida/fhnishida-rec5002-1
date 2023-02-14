@@ -2,21 +2,29 @@
 date: "2018-09-09T00:00:00Z"
 # icon: book
 # icon_pack: fas
-linktitle: Session 5
+linktitle: Session 6
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software
   documentation, and tutorials.
-title: Session 5 (May 18, 2021)
-weight: 5
+title: Session 6 (May 25, 2021)
+weight: 6
 output: md_document
 type: book
 ---
 
 
 
-## TA Session 5 Recording (in Portuguese)
+# Neoclassical Growth Model with Uncertainty and Leisure
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0umglq9dU0k/maxresdefault.jpg)](https://www.youtube.com/watch?v=0umglq9dU0k)
+## TA Session 6 Recording (in Portuguese)
 
-- Problem Set 2 Solution: [Lista-2_Resolucao.pdf](../Lista-2_Resolucao.pdf)
-- Script File: [Lista-2_v2.py](../Lista-2_v2.py)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tQ4EPZqxah0/maxresdefault.jpg)](https://www.youtube.com/watch?v=tQ4EPZqxah0)
 
+- Presentation: [Monitoria-6_Apresentacao.pdf](../Monitoria-6_Apresentacao.pdf)
+- Script file (Uncertainty): [Monitoria-6_incerteza.py](../Monitoria-6_incerteza.py)
+- Script file (Leisure): [Monitoria-6_trabalho.py](../Monitoria-6_trabalho.py)
+
+
+# Problem Set 3
+- Problem Set 3 Solution: [Lista-3_Resolucao.pdf](../Lista-3_Resolucao.pdf)
+
+{{< cta cta_text="👉 Proceed to Session 7" cta_link="chapter7" >}}

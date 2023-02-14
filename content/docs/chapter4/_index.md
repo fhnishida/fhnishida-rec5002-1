@@ -22,3 +22,5 @@ type: book
 - Presentation: [Monitoria-4_Apresentacao.pdf](../Monitoria-4_Apresentacao.pdf)
 - Script file: [Monitoria-4.py](../Monitoria-4.py)
 
+
+{{< cta cta_text="👉 Proceed to Session 5" cta_link="chapter5" >}}
