@@ -18,6 +18,13 @@ Script file: [Monitoria-4.py](../Monitoria-4.py)
 
 ## Presentation
 
+
+<embed src="../Monitoria 4 - Macro I - Apresentacao.pdf" type="application/pdf" width="700px">
+
+
+<iframe id="iframepdf" src="../Monitoria 4 - Macro I - Apresentacao.pdf" width=100% height=500px><div>No online PDF viewer installed</div></iframe>
+
+
 <object data="../Monitoria 4 - Macro I - Apresentacao.pdf" type="application/pdf" width=100% height=480>
          <div>No online PDF viewer installed</div>
     </object>
