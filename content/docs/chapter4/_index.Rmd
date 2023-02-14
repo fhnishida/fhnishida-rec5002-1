@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 reticulate::repl_python()
 ```
 
-# Neoclassical Growth Model
+## Neoclassical Growth Model
 
 ## TA Session 4 Recording (in Portuguese)
 
@@ -26,4 +26,4 @@ reticulate::repl_python()
 - Script file: [Monitoria-4.py](../Monitoria-4.py)
 
 
-{{< cta cta_text="👉 Proceed to Session 5" cta_link="chapter5" >}}
+{{< cta cta_text="👉 Proceed to Session 5" cta_link="../chapter5" >}}

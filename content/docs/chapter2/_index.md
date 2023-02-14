@@ -13,7 +13,6 @@ type: book
 
 
 
-## Content
 Introduction to Python (Part 2):
 
 - Lists
@@ -29,4 +28,4 @@ Script file: [Monitoria-2_v3.py](../Monitoria-2_v3.py)
 - [Python Course (in Portuguese): "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) (Fábio Kon, IME-USP)
 
 
-{{< cta cta_text="👉 Proceed to Session 3" cta_link="chapter3" >}}
+{{< cta cta_text="👉 Proceed to Session 3" cta_link="../chapter3" >}}

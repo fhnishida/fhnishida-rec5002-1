@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 reticulate::repl_python()
 ```
 
-# Problem Set 4
+## Problem Set 4
 
 ## TA Session 7 Recording (in Portuguese)
 

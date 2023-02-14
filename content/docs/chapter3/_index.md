@@ -13,7 +13,7 @@ type: book
 
 
 
-## Content
+
 Introduction to Python (Part 3):
 
 - Matrices (part 2)
@@ -34,4 +34,4 @@ Introduction to Python (Part 3):
 - [Python Course (in Portuguese): "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) (Fábio Kon, IME-USP)
 - [Python Course (in Portuguese): "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) (Fábio Kon, IME-USP)
 
-{{< cta cta_text="👉 Proceed to Session 4" cta_link="chapter4" >}}
+{{< cta cta_text="👉 Proceed to Session 4" cta_link="../chapter4" >}}

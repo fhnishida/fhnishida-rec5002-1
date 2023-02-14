@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 reticulate::repl_python()
 ```
 
-# Problem Set 2
+## Problem Set 2
 
 ## TA Session 5 Recording (in Portuguese)
 
@@ -26,4 +26,4 @@ reticulate::repl_python()
 - Script File: [Lista-2_v2.py](../Lista-2_v2.py)
 
 
-{{< cta cta_text="👉 Proceed to Session 6" cta_link="chapter6" >}}
+{{< cta cta_text="👉 Proceed to Session 6" cta_link="../chapter6" >}}

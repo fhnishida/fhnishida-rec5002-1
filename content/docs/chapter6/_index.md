@@ -13,7 +13,7 @@ type: book
 
 
 
-# Neoclassical Growth Model with Uncertainty and Leisure
+## Neoclassical Growth Model with Uncertainty and Leisure
 
 ## TA Session 6 Recording (in Portuguese)
 
@@ -24,7 +24,7 @@ type: book
 - Script file (Leisure): [Monitoria-6_trabalho.py](../Monitoria-6_trabalho.py)
 
 
-# Problem Set 3
+## Problem Set 3
 - Problem Set 3 Solution: [Lista-3_Resolucao.pdf](../Lista-3_Resolucao.pdf)
 
-{{< cta cta_text="👉 Proceed to Session 7" cta_link="chapter7" >}}
+{{< cta cta_text="👉 Proceed to Session 7" cta_link="../chapter7" >}}

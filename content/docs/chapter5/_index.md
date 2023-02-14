@@ -13,7 +13,7 @@ type: book
 
 
 
-# Problem Set 2
+## Problem Set 2
 
 ## TA Session 5 Recording (in Portuguese)
 
@@ -23,4 +23,4 @@ type: book
 - Script File: [Lista-2_v2.py](../Lista-2_v2.py)
 
 
-{{< cta cta_text="👉 Proceed to Session 6" cta_link="chapter6" >}}
+{{< cta cta_text="👉 Proceed to Session 6" cta_link="../chapter6" >}}

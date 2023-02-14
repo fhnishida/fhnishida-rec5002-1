@@ -13,7 +13,7 @@ type: book
 
 
 
-## Content
+
 Introduction to Python (Part 1):
 
 - Operations
@@ -34,5 +34,5 @@ Script file: [Monitoria-1.py](../Monitoria-1.py)
 - [Python Course (in Portuguese): "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) (Fábio Kon, IME-USP)
 
 
-{{< cta cta_text="👉 Proceed to Session 2" cta_link="chapter2" >}}
+{{< cta cta_text="👉 Proceed to Session 2" cta_link="../chapter2" >}}
 

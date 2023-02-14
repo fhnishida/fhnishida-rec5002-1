@@ -13,7 +13,7 @@ type: book
 
 
 
-# Neoclassical Growth Model
+## Neoclassical Growth Model
 
 ## TA Session 4 Recording (in Portuguese)
 
@@ -23,4 +23,4 @@ type: book
 - Script file: [Monitoria-4.py](../Monitoria-4.py)
 
 
-{{< cta cta_text="👉 Proceed to Session 5" cta_link="chapter5" >}}
+{{< cta cta_text="👉 Proceed to Session 5" cta_link="../chapter5" >}}
