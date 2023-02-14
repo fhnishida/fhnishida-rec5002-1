@@ -2,9 +2,13 @@
 title: Main
 toc: false
 type: book
+
+icon: clipboard-list
+icon_pack: fas
+linktitle: Main
 ---
 
-Welcome to the Graduate TA Sessions in _Macroeconomics I_ (Part 1)!
+Welcome to TA Sessions for Macroeconomics I (Part 1) course!
 
 Course webpage (prof. Fernando Barros Jr): [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i)
 
