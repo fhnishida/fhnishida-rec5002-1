@@ -14,15 +14,13 @@ weight: 4
 ## TA Session 3 Recording (in Portuguese)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bgk_43S8l6M/maxresdefault.jpg)](https://www.youtube.com/watch?v=Bgk_43S8l6M)
-Script file: [Monitoria-3_v2.py](../Monitoria-3_v2.py)
+Script file: [Monitoria-4.py](../Monitoria-4.py)
 
 ## Presentation
 
-
-<embed src="../Monitoria 4 - Macro I - Apresentacao.pdf" type="application/pdf" width="700px">
-
-
-<iframe id="iframepdf" src="../Monitoria 4 - Macro I - Apresentacao.pdf" width=100% height=500></iframe>
+<object data="../Monitoria 4 - Macro I - Apresentacao.pdf" type="application/pdf" width=100% height=480>
+         <div>No online PDF viewer installed</div>
+    </object>
 
 
 ## Complementary content
